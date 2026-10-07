@@ -1,0 +1,1 @@
+{"name":"kwihh-project","version":"1.0.0","type":"commonjs","scripts":{"seed":"node server.js --seed","start":"node server.js","test":"node test.js"},"engines":{"node":">=22.5"}}
